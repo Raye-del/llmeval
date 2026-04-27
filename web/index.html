@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>跨文化理解答题</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <aside id="sidePanel" class="side-panel">
+        <section id="introCard" class="card intro-card">
+          <h1>跨文化理解答题</h1>
+          <p class="panel-text">请填写个人信息与起始题号后开始作答。答案会自动保存在当前浏览器，完成后请下载 JSON 提交给老师。</p>
+        </section>
+
+        <section id="infoCard" class="card">
+          <h2>基本信息</h2>
+          <label class="field">
+            <span>姓名</span>
+            <input id="studentName" type="text" placeholder="请输入姓名" />
+          </label>
+          <label class="field">
+            <span>学号</span>
+            <input id="studentId" type="text" placeholder="请输入学号" />
+          </label>
+          <label class="field">
+            <span>年龄</span>
+            <input id="studentAge" type="number" min="1" max="120" placeholder="请输入年龄" />
+          </label>
+          <label class="field">
+            <span>国籍</span>
+            <input id="studentNationality" type="text" placeholder="请输入国籍" />
+          </label>
+          <label class="field">
+            <span>专业</span>
+            <input id="studentMajor" type="text" placeholder="请输入专业" />
+          </label>
+          <label class="field">
+            <span>学历层级</span>
+            <select id="studentEducationLevel">
+              <option value="">请选择学历层级</option>
+              <option value="本科">本科</option>
+              <option value="硕士">硕士</option>
+              <option value="博士">博士</option>
+              <option value="其他">其他</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>年级</span>
+            <select id="studentGrade">
+              <option value="">请先选择学历层级</option>
+            </select>
+          </label>
+          <label class="field">
+            <span>起始题号</span>
+            <input id="assignmentStart" type="number" min="1" placeholder="请输入起始题号" />
+          </label>
+          <button id="startBtn" class="primary-btn">开始答题</button>
+        </section>
+
+        <section id="statusCard" class="card compact-card">
+          <h2>保存与提交</h2>
+          <p id="serverStatus" class="panel-text small">尚未开始。</p>
+          <button id="downloadBtn" class="secondary-btn" disabled>下载答卷 JSON</button>
+          <button id="resetBtn" class="ghost-btn" disabled>清空作答</button>
+        </section>
+
+        <section id="progressSideCard" class="card compact-card">
+          <h2>答题状态</h2>
+          <div class="progress-side-block">
+            <div class="progress-header">
+              <span class="progress-label">答题进度</span>
+              <span id="progressText" class="progress-count">0 / 0</span>
+            </div>
+            <div class="progress-track" aria-hidden="true">
+              <div id="progressBar" class="progress-bar"></div>
+            </div>
+          </div>
+          <div class="status-grid">
+            <div class="status-item">
+              <span class="status-label">当前题目</span>
+              <span id="currentQuestionText" class="status-value">第 0 题</span>
+            </div>
+            <div class="status-item">
+              <span class="status-label">作答状态</span>
+              <span id="answerStatusText" class="status-value">未作答</span>
+            </div>
+          </div>
+        </section>
+      </aside>
+
+      <main class="main-panel">
+        <section id="questionCard" class="question-card card empty-state">
+          <p>尚未载入题目。</p>
+        </section>
+      </main>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

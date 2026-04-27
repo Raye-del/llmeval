@@ -1,0 +1,2882 @@
+[
+  {
+    "row_id": 1,
+    "case_id": "5267",
+    "correct_answer": "B",
+    "country": "摩洛哥",
+    "category": "其他",
+    "title": "吃饭时来工作"
+  },
+  {
+    "row_id": 2,
+    "case_id": "10497",
+    "correct_answer": "B",
+    "country": "苏丹",
+    "category": "其他",
+    "title": "以胖为美的热土(图文)"
+  },
+  {
+    "row_id": 3,
+    "case_id": "11233",
+    "correct_answer": "F",
+    "country": "埃塞俄比亚",
+    "category": "其他",
+    "title": "又爱又恨的狮子"
+  },
+  {
+    "row_id": 4,
+    "case_id": "1963",
+    "correct_answer": "D",
+    "country": "尼日利亚",
+    "category": "其他",
+    "title": "你可以借我钱吗？"
+  },
+  {
+    "row_id": 5,
+    "case_id": "8930",
+    "correct_answer": "F",
+    "country": "摩洛哥",
+    "category": "其他",
+    "title": "勿谈领土！"
+  },
+  {
+    "row_id": 6,
+    "case_id": "9644",
+    "correct_answer": "C",
+    "country": "摩洛哥",
+    "category": "其他",
+    "title": "受人爱戴的王室(图文)"
+  },
+  {
+    "row_id": 7,
+    "case_id": "8019",
+    "correct_answer": "F",
+    "country": "乌兹别克斯坦",
+    "category": "其他",
+    "title": "花样地铁(图文)"
+  },
+  {
+    "row_id": 8,
+    "case_id": "10188",
+    "correct_answer": "C",
+    "country": "缅甸",
+    "category": "其他",
+    "title": "混乱的历史"
+  },
+  {
+    "row_id": 9,
+    "case_id": "2495",
+    "correct_answer": "C",
+    "country": "日本",
+    "category": "其他",
+    "title": "中日综合实践活动课程实施的比较"
+  },
+  {
+    "row_id": 10,
+    "case_id": "10418",
+    "correct_answer": "F",
+    "country": "孟加拉国",
+    "category": "其他",
+    "title": "停不下来的公交车(图文)"
+  },
+  {
+    "row_id": 11,
+    "case_id": "2525",
+    "correct_answer": "B",
+    "country": "日本",
+    "category": "其他",
+    "title": "中日国粹主义比较"
+  },
+  {
+    "row_id": 12,
+    "case_id": "2485",
+    "correct_answer": "C",
+    "country": "日本",
+    "category": "其他",
+    "title": "中日生鲜农产品冷链物流发展比较"
+  },
+  {
+    "row_id": 13,
+    "case_id": "675",
+    "correct_answer": "B",
+    "country": "美国",
+    "category": "其他",
+    "title": "输血的问题"
+  },
+  {
+    "row_id": 14,
+    "case_id": "3809",
+    "correct_answer": "C",
+    "country": "美国",
+    "category": "其他",
+    "title": "“送红包”的叫车软件"
+  },
+  {
+    "row_id": 15,
+    "case_id": "9554",
+    "correct_answer": "D",
+    "country": "美国",
+    "category": "其他",
+    "title": "这件衣服真好看"
+  },
+  {
+    "row_id": 16,
+    "case_id": "3792",
+    "correct_answer": "F",
+    "country": "美国",
+    "category": "其他",
+    "title": "剪刀手"
+  },
+  {
+    "row_id": 17,
+    "case_id": "4200",
+    "correct_answer": "B",
+    "country": "美国",
+    "category": "其他",
+    "title": "又换工作？！"
+  },
+  {
+    "row_id": 18,
+    "case_id": "10502",
+    "correct_answer": "F",
+    "country": "美国",
+    "category": "其他",
+    "title": "You are not my mother, are you?"
+  },
+  {
+    "row_id": 19,
+    "case_id": "8331",
+    "correct_answer": "D",
+    "country": "法国",
+    "category": "其他",
+    "title": "抽烟的法国女人"
+  },
+  {
+    "row_id": 20,
+    "case_id": "7335",
+    "correct_answer": "F",
+    "country": "芬兰",
+    "category": "其他",
+    "title": "不忘老兵"
+  },
+  {
+    "row_id": 21,
+    "case_id": "6579",
+    "correct_answer": "D",
+    "country": "法国",
+    "category": "其他",
+    "title": "我来指挥"
+  },
+  {
+    "row_id": 22,
+    "case_id": "6489",
+    "correct_answer": "E",
+    "country": "英国",
+    "category": "其他",
+    "title": "对外宣传中的中国形象"
+  },
+  {
+    "row_id": 23,
+    "case_id": "557",
+    "correct_answer": "B",
+    "country": "德国",
+    "category": "其他",
+    "title": "要不要在QQ群里问路问天气？"
+  },
+  {
+    "row_id": 24,
+    "case_id": "8996",
+    "correct_answer": "C",
+    "country": "阿尔巴尼亚",
+    "category": "其他",
+    "title": "上车前先说价钱"
+  },
+  {
+    "row_id": 25,
+    "case_id": "6732",
+    "correct_answer": "F",
+    "country": "法国",
+    "category": "其他",
+    "title": "法语联盟和孔子学院语言及文化推广比较(图文)"
+  },
+  {
+    "row_id": 26,
+    "case_id": "5663",
+    "correct_answer": "D",
+    "country": "斐济",
+    "category": "其他",
+    "title": "乐于分享的文化"
+  },
+  {
+    "row_id": 27,
+    "case_id": "5708",
+    "correct_answer": "E",
+    "country": "斐济",
+    "category": "其他",
+    "title": "太平洋上的幸福岛国"
+  },
+  {
+    "row_id": 28,
+    "case_id": "5669",
+    "correct_answer": "F",
+    "country": "斐济",
+    "category": "其他",
+    "title": "初探部落文化"
+  },
+  {
+    "row_id": 29,
+    "case_id": "9480",
+    "correct_answer": "D",
+    "country": "澳大利亚",
+    "category": "其他",
+    "title": "中澳大学生间的同窗之情"
+  },
+  {
+    "row_id": 30,
+    "case_id": "8137",
+    "correct_answer": "B",
+    "country": "巴西",
+    "category": "其他",
+    "title": "送礼不要送紫色"
+  },
+  {
+    "row_id": 31,
+    "case_id": "8532",
+    "correct_answer": "D",
+    "country": "秘鲁",
+    "category": "其他",
+    "title": "疯狂的狂欢节"
+  },
+  {
+    "row_id": 32,
+    "case_id": "8135",
+    "correct_answer": "F",
+    "country": "巴西",
+    "category": "其他",
+    "title": "男女不平等？"
+  },
+  {
+    "row_id": 33,
+    "case_id": "8111",
+    "correct_answer": "E",
+    "country": "巴西",
+    "category": "其他",
+    "title": "答谢"
+  },
+  {
+    "row_id": 34,
+    "case_id": "1917",
+    "correct_answer": "C",
+    "country": "日本",
+    "category": "制度",
+    "title": "在美日台资企业中的“实杈与虚职”"
+  },
+  {
+    "row_id": 35,
+    "case_id": "4313",
+    "correct_answer": "B",
+    "country": "马来西亚",
+    "category": "制度",
+    "title": "随意撤销的要约"
+  },
+  {
+    "row_id": 36,
+    "case_id": "2645",
+    "correct_answer": "F",
+    "country": "日本",
+    "category": "制度",
+    "title": "中日两国产学研结合的人才培养模式比较"
+  },
+  {
+    "row_id": 37,
+    "case_id": "11115",
+    "correct_answer": "C",
+    "country": "马来西亚",
+    "category": "制度",
+    "title": "人人都有头衔"
+  },
+  {
+    "row_id": 38,
+    "case_id": "890",
+    "correct_answer": "D",
+    "country": "柬埔寨",
+    "category": "制度",
+    "title": "放生的小鸟"
+  },
+  {
+    "row_id": 39,
+    "case_id": "11180",
+    "correct_answer": "D",
+    "country": "肯尼亚",
+    "category": "制度",
+    "title": "保守还是开放？"
+  },
+  {
+    "row_id": 40,
+    "case_id": "11382",
+    "correct_answer": "C",
+    "country": "南非",
+    "category": "制度",
+    "title": "准备两个手机"
+  },
+  {
+    "row_id": 41,
+    "case_id": "11225",
+    "correct_answer": "D",
+    "country": "肯尼亚",
+    "category": "制度",
+    "title": "“我不能夸他帅”"
+  },
+  {
+    "row_id": 42,
+    "case_id": "10264",
+    "correct_answer": "C",
+    "country": "南非",
+    "category": "制度",
+    "title": "南非拥有三个首都不堪重负，总统提议裁撤"
+  },
+  {
+    "row_id": 43,
+    "case_id": "1340",
+    "correct_answer": "C",
+    "country": "安哥拉",
+    "category": "制度",
+    "title": "喜爱音乐与舞蹈的安哥拉人"
+  },
+  {
+    "row_id": 44,
+    "case_id": "3476",
+    "correct_answer": "B",
+    "country": "美国",
+    "category": "制度",
+    "title": "肥胖容易减肥难"
+  },
+  {
+    "row_id": 45,
+    "case_id": "757",
+    "correct_answer": "B",
+    "country": "美国",
+    "category": "制度",
+    "title": "向未成年人销售烟酒？"
+  },
+  {
+    "row_id": 46,
+    "case_id": "3431",
+    "correct_answer": "E",
+    "country": "美国",
+    "category": "制度",
+    "title": "从电影《刮痧》看跨文化交际（2）"
+  },
+  {
+    "row_id": 47,
+    "case_id": "1113",
+    "correct_answer": "D",
+    "country": "特立尼达和多巴哥",
+    "category": "制度",
+    "title": "特多的方言英语(图文)"
+  },
+  {
+    "row_id": 48,
+    "case_id": "5164",
+    "correct_answer": "C",
+    "country": "古巴",
+    "category": "制度",
+    "title": "有情调的古巴人"
+  },
+  {
+    "row_id": 49,
+    "case_id": "10115",
+    "correct_answer": "F",
+    "country": "澳大利亚",
+    "category": "制度",
+    "title": "中澳高等教育国际化程度差异"
+  },
+  {
+    "row_id": 50,
+    "case_id": "1906",
+    "correct_answer": "F",
+    "country": "新西兰",
+    "category": "制度",
+    "title": "政府并不神秘"
+  },
+  {
+    "row_id": 51,
+    "case_id": "3773",
+    "correct_answer": "F",
+    "country": "新西兰",
+    "category": "制度",
+    "title": "你先过马路(图文)"
+  },
+  {
+    "row_id": 52,
+    "case_id": "6096",
+    "correct_answer": "F",
+    "country": "英国",
+    "category": "制度",
+    "title": "中方的“泛食主义”与西方的“食(实) 用主义”"
+  },
+  {
+    "row_id": 53,
+    "case_id": "323",
+    "correct_answer": "B",
+    "country": "德国",
+    "category": "制度",
+    "title": "我不要这么多“随机应变”"
+  },
+  {
+    "row_id": 54,
+    "case_id": "57",
+    "correct_answer": "B",
+    "country": "瑞典",
+    "category": "制度",
+    "title": "谈婚论嫁"
+  },
+  {
+    "row_id": 55,
+    "case_id": "1793",
+    "correct_answer": "F",
+    "country": "英国",
+    "category": "制度",
+    "title": "中国与英国社会救助制度的差异性"
+  },
+  {
+    "row_id": 56,
+    "case_id": "581",
+    "correct_answer": "F",
+    "country": "法国",
+    "category": "制度",
+    "title": "中国人只听领导的"
+  },
+  {
+    "row_id": 57,
+    "case_id": "2273",
+    "correct_answer": "B",
+    "country": "德国",
+    "category": "制度",
+    "title": "明基被迫放弃西门子手机业务"
+  },
+  {
+    "row_id": 58,
+    "case_id": "8176",
+    "correct_answer": "B",
+    "country": "巴西",
+    "category": "制度",
+    "title": "参加爱婚前培训"
+  },
+  {
+    "row_id": 59,
+    "case_id": "1838",
+    "correct_answer": "F",
+    "country": "圭亚那",
+    "category": "制度",
+    "title": "医患关系"
+  },
+  {
+    "row_id": 60,
+    "case_id": "6395",
+    "correct_answer": "F",
+    "country": "巴西",
+    "category": "制度",
+    "title": "不太守时的巴西人"
+  },
+  {
+    "row_id": 61,
+    "case_id": "6444",
+    "correct_answer": "C",
+    "country": "秘鲁",
+    "category": "制度",
+    "title": "我在秘鲁生活的面面观（8）"
+  },
+  {
+    "row_id": 62,
+    "case_id": "10028",
+    "correct_answer": "F",
+    "country": "坦桑尼亚",
+    "category": "宗教",
+    "title": "没有信仰也是错"
+  },
+  {
+    "row_id": 63,
+    "case_id": "6914",
+    "correct_answer": "F",
+    "country": "埃及",
+    "category": "宗教",
+    "title": "三句话不离真主"
+  },
+  {
+    "row_id": 64,
+    "case_id": "10552",
+    "correct_answer": "F",
+    "country": "埃及",
+    "category": "宗教",
+    "title": "如果真主意欲！"
+  },
+  {
+    "row_id": 65,
+    "case_id": "1877",
+    "correct_answer": "C",
+    "country": "尼日利亚",
+    "category": "宗教",
+    "title": "不能用左手递东西给别人"
+  },
+  {
+    "row_id": 66,
+    "case_id": "10974",
+    "correct_answer": "D",
+    "country": "巴基斯坦",
+    "category": "宗教",
+    "title": "巴基斯坦宗教习俗对教学的影响"
+  },
+  {
+    "row_id": 67,
+    "case_id": "11009",
+    "correct_answer": "F",
+    "country": "阿联酋",
+    "category": "宗教",
+    "title": "都是猪油惹的祸"
+  },
+  {
+    "row_id": 68,
+    "case_id": "1421",
+    "correct_answer": "B",
+    "country": "中国",
+    "category": "宗教",
+    "title": "为什么基督徒不能算命？"
+  },
+  {
+    "row_id": 69,
+    "case_id": "10178",
+    "correct_answer": "C",
+    "country": "缅甸",
+    "category": "宗教",
+    "title": "僧侣过午不食"
+  },
+  {
+    "row_id": 70,
+    "case_id": "904",
+    "correct_answer": "C",
+    "country": "沙特阿拉伯",
+    "category": "宗教",
+    "title": "请保持安静！"
+  },
+  {
+    "row_id": 71,
+    "case_id": "7712",
+    "correct_answer": "F",
+    "country": "约旦",
+    "category": "宗教",
+    "title": "注意吃饭时间"
+  },
+  {
+    "row_id": 72,
+    "case_id": "9043",
+    "correct_answer": "D",
+    "country": "波兰",
+    "category": "宗教",
+    "title": "不受欢迎的东坡肉"
+  },
+  {
+    "row_id": 73,
+    "case_id": "6727",
+    "correct_answer": "A",
+    "country": "英国",
+    "category": "宗教",
+    "title": "中英两国对墓地的看法"
+  },
+  {
+    "row_id": 74,
+    "case_id": "8386",
+    "correct_answer": "F",
+    "country": "白俄罗斯",
+    "category": "宗教",
+    "title": "虔诚的教徒"
+  },
+  {
+    "row_id": 75,
+    "case_id": "1693",
+    "correct_answer": "D",
+    "country": "乌克兰",
+    "category": "宗教",
+    "title": "东正教圣诞节(图文)"
+  },
+  {
+    "row_id": 76,
+    "case_id": "3235",
+    "correct_answer": "F",
+    "country": "秘鲁",
+    "category": "宗教",
+    "title": "信仰的力量"
+  },
+  {
+    "row_id": 77,
+    "case_id": "2577",
+    "correct_answer": "B",
+    "country": "智利",
+    "category": "宗教",
+    "title": "餐前的祷告"
+  },
+  {
+    "row_id": 78,
+    "case_id": "3125",
+    "correct_answer": "C",
+    "country": "秘鲁",
+    "category": "宗教",
+    "title": "宗教差异下的文学作品"
+  },
+  {
+    "row_id": 79,
+    "case_id": "9888",
+    "correct_answer": "E",
+    "country": "澳大利亚",
+    "category": "宗教",
+    "title": "No photos in temples!"
+  },
+  {
+    "row_id": 80,
+    "case_id": "9785",
+    "correct_answer": "E",
+    "country": "澳大利亚",
+    "category": "宗教",
+    "title": "澳大利亚的宗教(图文)"
+  },
+  {
+    "row_id": 81,
+    "case_id": "9498",
+    "correct_answer": "B",
+    "country": "澳大利亚",
+    "category": "宗教",
+    "title": "无法通融的习惯"
+  },
+  {
+    "row_id": 82,
+    "case_id": "5385",
+    "correct_answer": "F",
+    "country": "墨西哥",
+    "category": "宗教",
+    "title": "墨西哥的“花样”十字架(图文)"
+  },
+  {
+    "row_id": 83,
+    "case_id": "2978",
+    "correct_answer": "E",
+    "country": "美国",
+    "category": "宗教",
+    "title": "拿什么拯救你，我的devo"
+  },
+  {
+    "row_id": 84,
+    "case_id": "622",
+    "correct_answer": "F",
+    "country": "古巴",
+    "category": "宗教",
+    "title": "小心数字"
+  },
+  {
+    "row_id": 85,
+    "case_id": "7228",
+    "correct_answer": "E",
+    "country": "丹麦",
+    "category": "建筑",
+    "title": "皇家图书馆(图文)"
+  },
+  {
+    "row_id": 86,
+    "case_id": "74",
+    "correct_answer": "F",
+    "country": "法国",
+    "category": "建筑",
+    "title": "你的凯旋门，我的大宅门(附图）"
+  },
+  {
+    "row_id": 87,
+    "case_id": "7199",
+    "correct_answer": "D",
+    "country": "斯洛文尼亚",
+    "category": "建筑",
+    "title": "被打翻的调色盘"
+  },
+  {
+    "row_id": 88,
+    "case_id": "2233",
+    "correct_answer": "F",
+    "country": "日本",
+    "category": "建筑",
+    "title": "中日传统家具的用材文化比较"
+  },
+  {
+    "row_id": 89,
+    "case_id": "910",
+    "correct_answer": "A",
+    "country": "柬埔寨",
+    "category": "建筑",
+    "title": "省事的吊脚楼(图文)"
+  },
+  {
+    "row_id": 90,
+    "case_id": "2342",
+    "correct_answer": "A",
+    "country": "日本",
+    "category": "建筑",
+    "title": "小户型空间尺度和面积分配上的中日差异"
+  },
+  {
+    "row_id": 91,
+    "case_id": "9983",
+    "correct_answer": "B",
+    "country": "坦桑尼亚",
+    "category": "建筑",
+    "title": "“石头城”桑给巴尔"
+  },
+  {
+    "row_id": 92,
+    "case_id": "9641",
+    "correct_answer": "B",
+    "country": "摩洛哥",
+    "category": "建筑",
+    "title": "色彩斑斓的摩洛哥建筑(图文)"
+  },
+  {
+    "row_id": 93,
+    "case_id": "7379",
+    "correct_answer": "E",
+    "country": "马里",
+    "category": "建筑",
+    "title": "住在悬崖边上的多贡人(图文)"
+  },
+  {
+    "row_id": 94,
+    "case_id": "3090",
+    "correct_answer": "F",
+    "country": "智利",
+    "category": "建筑",
+    "title": "百年老宅也有一颗时尚的心(图文)"
+  },
+  {
+    "row_id": 95,
+    "case_id": "8605",
+    "correct_answer": "F",
+    "country": "秘鲁",
+    "category": "建筑",
+    "title": "没有房顶的房子"
+  },
+  {
+    "row_id": 96,
+    "case_id": "1811",
+    "correct_answer": "F",
+    "country": "圭亚那",
+    "category": "建筑",
+    "title": "圭亚那建筑风格的多样性"
+  },
+  {
+    "row_id": 97,
+    "case_id": "2416",
+    "correct_answer": "D",
+    "country": "加拿大",
+    "category": "建筑",
+    "title": "中国建筑的独特性(图文)"
+  },
+  {
+    "row_id": 98,
+    "case_id": "4756",
+    "correct_answer": "B",
+    "country": "哥斯达黎加",
+    "category": "建筑",
+    "title": "雨中“交响乐”"
+  },
+  {
+    "row_id": 99,
+    "case_id": "1994",
+    "correct_answer": "D",
+    "country": "美国",
+    "category": "建筑",
+    "title": "没有操场的大学"
+  },
+  {
+    "row_id": 100,
+    "case_id": "4780",
+    "correct_answer": "B",
+    "country": "纳米比亚",
+    "category": "教育",
+    "title": "教育"
+  },
+  {
+    "row_id": 101,
+    "case_id": "8252",
+    "correct_answer": "F",
+    "country": "布隆迪",
+    "category": "教育",
+    "title": "面子问题"
+  },
+  {
+    "row_id": 102,
+    "case_id": "10298",
+    "correct_answer": "F",
+    "country": "尼日利亚",
+    "category": "教育",
+    "title": "大学课堂中的“纪律”呢(图文)"
+  },
+  {
+    "row_id": 103,
+    "case_id": "5065",
+    "correct_answer": "D",
+    "country": "博茨瓦纳",
+    "category": "教育",
+    "title": "师道尊严"
+  },
+  {
+    "row_id": 104,
+    "case_id": "3242",
+    "correct_answer": "F",
+    "country": "美国",
+    "category": "教育",
+    "title": "4岁孩子给自己理发"
+  },
+  {
+    "row_id": 105,
+    "case_id": "8898",
+    "correct_answer": "F",
+    "country": "巴巴多斯",
+    "category": "教育",
+    "title": "学生上课去厕所"
+  },
+  {
+    "row_id": 106,
+    "case_id": "4226",
+    "correct_answer": "F",
+    "country": "美国",
+    "category": "教育",
+    "title": "笑容因何而异"
+  },
+  {
+    "row_id": 107,
+    "case_id": "9580",
+    "correct_answer": "E",
+    "country": "美国",
+    "category": "教育",
+    "title": "如此解题"
+  },
+  {
+    "row_id": 108,
+    "case_id": "3697",
+    "correct_answer": "F",
+    "country": "泰国",
+    "category": "教育",
+    "title": "我的不满向谁诉说"
+  },
+  {
+    "row_id": 109,
+    "case_id": "2681",
+    "correct_answer": "C",
+    "country": "日本",
+    "category": "教育",
+    "title": "中日农业职业教育体系的比较"
+  },
+  {
+    "row_id": 110,
+    "case_id": "4194",
+    "correct_answer": "D",
+    "country": "泰国",
+    "category": "教育",
+    "title": "老师拜学生"
+  },
+  {
+    "row_id": 111,
+    "case_id": "10827",
+    "correct_answer": "C",
+    "country": "泰国",
+    "category": "教育",
+    "title": "创意十足的泰国学生(图文)"
+  },
+  {
+    "row_id": 112,
+    "case_id": "5070",
+    "correct_answer": "B",
+    "country": "塔吉克斯坦",
+    "category": "教育",
+    "title": "和宗教有关的婚礼"
+  },
+  {
+    "row_id": 113,
+    "case_id": "54",
+    "correct_answer": "F",
+    "country": "德国",
+    "category": "教育",
+    "title": "狠心的爸爸"
+  },
+  {
+    "row_id": 114,
+    "case_id": "5945",
+    "correct_answer": "B",
+    "country": "德国",
+    "category": "教育",
+    "title": "跨学科研究"
+  },
+  {
+    "row_id": 115,
+    "case_id": "6007",
+    "correct_answer": "C",
+    "country": "比利时",
+    "category": "教育",
+    "title": "教师淘汰制"
+  },
+  {
+    "row_id": 116,
+    "case_id": "940",
+    "correct_answer": "C",
+    "country": "芬兰",
+    "category": "教育",
+    "title": "会学习更要会体验生活"
+  },
+  {
+    "row_id": 117,
+    "case_id": "3448",
+    "correct_answer": "F",
+    "country": "英国",
+    "category": "教育",
+    "title": "表扬学生是个技术活儿"
+  },
+  {
+    "row_id": 118,
+    "case_id": "1259",
+    "correct_answer": "C",
+    "country": "澳大利亚",
+    "category": "教育",
+    "title": "你有心理疾病吗"
+  },
+  {
+    "row_id": 119,
+    "case_id": "5747",
+    "correct_answer": "C",
+    "country": "新西兰",
+    "category": "教育",
+    "title": "国籍丰富的新西兰小学"
+  },
+  {
+    "row_id": 120,
+    "case_id": "9901",
+    "correct_answer": "B",
+    "country": "澳大利亚",
+    "category": "教育",
+    "title": "教育方式"
+  },
+  {
+    "row_id": 121,
+    "case_id": "3092",
+    "correct_answer": "F",
+    "country": "智利",
+    "category": "教育",
+    "title": "我的活动我做主(图文)"
+  },
+  {
+    "row_id": 122,
+    "case_id": "3140",
+    "correct_answer": "F",
+    "country": "秘鲁",
+    "category": "教育",
+    "title": "秘鲁私立大学的高大上和矮矬穷！"
+  },
+  {
+    "row_id": 123,
+    "case_id": "3093",
+    "correct_answer": "D",
+    "country": "智利",
+    "category": "教育",
+    "title": "智利中学生的“花样”家庭作业"
+  },
+  {
+    "row_id": 124,
+    "case_id": "656",
+    "correct_answer": "D",
+    "country": "哥伦比亚",
+    "category": "教育",
+    "title": "别样的第一堂课"
+  },
+  {
+    "row_id": 125,
+    "case_id": "1621",
+    "correct_answer": "F",
+    "country": "纳米比亚",
+    "category": "日常生活",
+    "title": "热情开放的女性"
+  },
+  {
+    "row_id": 126,
+    "case_id": "8222",
+    "correct_answer": "B",
+    "country": "布隆迪",
+    "category": "日常生活",
+    "title": "牛(图文)"
+  },
+  {
+    "row_id": 127,
+    "case_id": "5088",
+    "correct_answer": "F",
+    "country": "摩洛哥",
+    "category": "日常生活",
+    "title": "你愿意嫁给我吗？"
+  },
+  {
+    "row_id": 128,
+    "case_id": "5317",
+    "correct_answer": "E",
+    "country": "塞内加尔",
+    "category": "日常生活",
+    "title": "塞内加尔人的国家自豪感"
+  },
+  {
+    "row_id": 129,
+    "case_id": "6059",
+    "correct_answer": "C",
+    "country": "埃及",
+    "category": "日常生活",
+    "title": "足底朝外的冒犯"
+  },
+  {
+    "row_id": 130,
+    "case_id": "8924",
+    "correct_answer": "B",
+    "country": "摩洛哥",
+    "category": "日常生活",
+    "title": "乘出租？先备好零钱！"
+  },
+  {
+    "row_id": 131,
+    "case_id": "9956",
+    "correct_answer": "B",
+    "country": "坦桑尼亚",
+    "category": "日常生活",
+    "title": "肮脏的左手？"
+  },
+  {
+    "row_id": 132,
+    "case_id": "2558",
+    "correct_answer": "B",
+    "country": "马达加斯加",
+    "category": "日常生活",
+    "title": "喜欢白色的马达加斯加(图文)"
+  },
+  {
+    "row_id": 133,
+    "case_id": "2949",
+    "correct_answer": "D",
+    "country": "塞舌尔",
+    "category": "日常生活",
+    "title": "桃花源 07"
+  },
+  {
+    "row_id": 134,
+    "case_id": "10223",
+    "correct_answer": "E",
+    "country": "加纳",
+    "category": "日常生活",
+    "title": "米饭加盐？"
+  },
+  {
+    "row_id": 135,
+    "case_id": "10583",
+    "correct_answer": "B",
+    "country": "苏丹",
+    "category": "日常生活",
+    "title": "女性的价值"
+  },
+  {
+    "row_id": 136,
+    "case_id": "10072",
+    "correct_answer": "F",
+    "country": "喀麦隆",
+    "category": "日常生活",
+    "title": "你家有几口人？"
+  },
+  {
+    "row_id": 137,
+    "case_id": "9816",
+    "correct_answer": "F",
+    "country": "摩洛哥",
+    "category": "日常生活",
+    "title": "法蒂玛之手(图文)"
+  },
+  {
+    "row_id": 138,
+    "case_id": "9738",
+    "correct_answer": "F",
+    "country": "莫桑比克",
+    "category": "日常生活",
+    "title": "头上功夫(图文)"
+  },
+  {
+    "row_id": 139,
+    "case_id": "5265",
+    "correct_answer": "C",
+    "country": "塞内加尔",
+    "category": "日常生活",
+    "title": "避免斋月办事"
+  },
+  {
+    "row_id": 140,
+    "case_id": "10505",
+    "correct_answer": "D",
+    "country": "埃及",
+    "category": "日常生活",
+    "title": "一日三餐的时间"
+  },
+  {
+    "row_id": 141,
+    "case_id": "5460",
+    "correct_answer": "D",
+    "country": "多哥",
+    "category": "日常生活",
+    "title": "独特的葬礼"
+  },
+  {
+    "row_id": 142,
+    "case_id": "5492",
+    "correct_answer": "D",
+    "country": "阿尔及利亚",
+    "category": "日常生活",
+    "title": "穷人也有房子"
+  },
+  {
+    "row_id": 143,
+    "case_id": "2141",
+    "correct_answer": "D",
+    "country": "越南",
+    "category": "日常生活",
+    "title": "电视配音一人代"
+  },
+  {
+    "row_id": 144,
+    "case_id": "1301",
+    "correct_answer": "A",
+    "country": "日本",
+    "category": "日常生活",
+    "title": "道歉也是一种礼貌"
+  },
+  {
+    "row_id": 145,
+    "case_id": "6081",
+    "correct_answer": "C",
+    "country": "沙特阿拉伯",
+    "category": "日常生活",
+    "title": "斋月期间，不要在公共场合抽烟，吃吃喝喝"
+  },
+  {
+    "row_id": 146,
+    "case_id": "795",
+    "correct_answer": "D",
+    "country": "韩国",
+    "category": "日常生活",
+    "title": "别样主持风(图文)"
+  },
+  {
+    "row_id": 147,
+    "case_id": "11132",
+    "correct_answer": "C",
+    "country": "泰国",
+    "category": "日常生活",
+    "title": "结账文化大不同"
+  },
+  {
+    "row_id": 148,
+    "case_id": "10216",
+    "correct_answer": "C",
+    "country": "缅甸",
+    "category": "日常生活",
+    "title": "缅甸没有城管"
+  },
+  {
+    "row_id": 149,
+    "case_id": "1195",
+    "correct_answer": "C",
+    "country": "日本",
+    "category": "日常生活",
+    "title": "中日广告文化差异"
+  },
+  {
+    "row_id": 150,
+    "case_id": "5226",
+    "correct_answer": "F",
+    "country": "孟加拉国",
+    "category": "日常生活",
+    "title": "等级森严的孟加拉"
+  },
+  {
+    "row_id": 151,
+    "case_id": "4067",
+    "correct_answer": "A",
+    "country": "吉尔吉斯斯坦",
+    "category": "日常生活",
+    "title": "吉尔吉斯斯坦的“绳子仪式”"
+  },
+  {
+    "row_id": 152,
+    "case_id": "10315",
+    "correct_answer": "D",
+    "country": "斯里兰卡",
+    "category": "日常生活",
+    "title": "扛不住的辣(图文)"
+  },
+  {
+    "row_id": 153,
+    "case_id": "4390",
+    "correct_answer": "F",
+    "country": "韩国",
+    "category": "日常生活",
+    "title": "说“李”姓有讲究"
+  },
+  {
+    "row_id": 154,
+    "case_id": "2858",
+    "correct_answer": "C",
+    "country": "泰国",
+    "category": "日常生活",
+    "title": "万事不如国歌大"
+  },
+  {
+    "row_id": 155,
+    "case_id": "9653",
+    "correct_answer": "F",
+    "country": "菲律宾",
+    "category": "日常生活",
+    "title": "银行透支习以为常"
+  },
+  {
+    "row_id": 156,
+    "case_id": "2380",
+    "correct_answer": "B",
+    "country": "孟加拉国",
+    "category": "日常生活",
+    "title": "喝啤酒的孟加拉人(图文)"
+  },
+  {
+    "row_id": 157,
+    "case_id": "11295",
+    "correct_answer": "A",
+    "country": "菲律宾",
+    "category": "日常生活",
+    "title": "我的礼物没过期"
+  },
+  {
+    "row_id": 158,
+    "case_id": "5637",
+    "correct_answer": "D",
+    "country": "伊朗",
+    "category": "日常生活",
+    "title": "风塔——伊朗的古老空调"
+  },
+  {
+    "row_id": 159,
+    "case_id": "1517",
+    "correct_answer": "C",
+    "country": "泰国",
+    "category": "日常生活",
+    "title": "不能含糊的邀请"
+  },
+  {
+    "row_id": 160,
+    "case_id": "9286",
+    "correct_answer": "B",
+    "country": "泰国",
+    "category": "日常生活",
+    "title": "泰国人对同性恋的态度"
+  },
+  {
+    "row_id": 161,
+    "case_id": "414",
+    "correct_answer": "F",
+    "country": "英国",
+    "category": "日常生活",
+    "title": "无偿加班"
+  },
+  {
+    "row_id": 162,
+    "case_id": "8265",
+    "correct_answer": "D",
+    "country": "立陶宛",
+    "category": "日常生活",
+    "title": "耳语惹人嫌"
+  },
+  {
+    "row_id": 163,
+    "case_id": "5030",
+    "correct_answer": "D",
+    "country": "英国",
+    "category": "日常生活",
+    "title": "这也能吃吗？"
+  },
+  {
+    "row_id": 164,
+    "case_id": "6785",
+    "correct_answer": "B",
+    "country": "德国",
+    "category": "日常生活",
+    "title": "上不完的培训班"
+  },
+  {
+    "row_id": 165,
+    "case_id": "7159",
+    "correct_answer": "D",
+    "country": "罗马尼亚",
+    "category": "日常生活",
+    "title": "饮食男女"
+  },
+  {
+    "row_id": 166,
+    "case_id": "3428",
+    "correct_answer": "E",
+    "country": "英国",
+    "category": "日常生活",
+    "title": "AA不是按次买单"
+  },
+  {
+    "row_id": 167,
+    "case_id": "7005",
+    "correct_answer": "C",
+    "country": "马耳他",
+    "category": "日常生活",
+    "title": "爱劝酒的中国人"
+  },
+  {
+    "row_id": 168,
+    "case_id": "128",
+    "correct_answer": "C",
+    "country": "德国",
+    "category": "日常生活",
+    "title": "摊主招呼客户的方式"
+  },
+  {
+    "row_id": 169,
+    "case_id": "176",
+    "correct_answer": "D",
+    "country": "德国",
+    "category": "日常生活",
+    "title": "自己的事情自己做"
+  },
+  {
+    "row_id": 170,
+    "case_id": "11308",
+    "correct_answer": "F",
+    "country": "德国",
+    "category": "日常生活",
+    "title": "刷碗只刷不冲的德国人"
+  },
+  {
+    "row_id": 171,
+    "case_id": "4613",
+    "correct_answer": "E",
+    "country": "英国",
+    "category": "日常生活",
+    "title": "讨厌过问私事"
+  },
+  {
+    "row_id": 172,
+    "case_id": "820",
+    "correct_answer": "B",
+    "country": "意大利",
+    "category": "日常生活",
+    "title": "每个人都是表演家"
+  },
+  {
+    "row_id": 173,
+    "case_id": "9603",
+    "correct_answer": "F",
+    "country": "西班牙",
+    "category": "日常生活",
+    "title": "晒被子是令人羞耻的行为(图文)"
+  },
+  {
+    "row_id": 174,
+    "case_id": "7990",
+    "correct_answer": "C",
+    "country": "挪威",
+    "category": "日常生活",
+    "title": "每日汇报"
+  },
+  {
+    "row_id": 175,
+    "case_id": "3514",
+    "correct_answer": "E",
+    "country": "英国",
+    "category": "日常生活",
+    "title": "祸鸟孔雀"
+  },
+  {
+    "row_id": 176,
+    "case_id": "5004",
+    "correct_answer": "D",
+    "country": "瑞士",
+    "category": "日常生活",
+    "title": "停车熄火"
+  },
+  {
+    "row_id": 177,
+    "case_id": "6482",
+    "correct_answer": "F",
+    "country": "比利时",
+    "category": "日常生活",
+    "title": "收费厕所"
+  },
+  {
+    "row_id": 178,
+    "case_id": "9198",
+    "correct_answer": "D",
+    "country": "奥地利",
+    "category": "日常生活",
+    "title": "金色大厅的“小规矩”"
+  },
+  {
+    "row_id": 179,
+    "case_id": "5533",
+    "correct_answer": "D",
+    "country": "美国",
+    "category": "日常生活",
+    "title": "喝酒配小菜"
+  },
+  {
+    "row_id": 180,
+    "case_id": "2287",
+    "correct_answer": "D",
+    "country": "美国",
+    "category": "日常生活",
+    "title": "中西饮食文化(图文)"
+  },
+  {
+    "row_id": 181,
+    "case_id": "8561",
+    "correct_answer": "F",
+    "country": "哥斯达黎加",
+    "category": "日常生活",
+    "title": "豆子！豆子！怎么还是豆子！"
+  },
+  {
+    "row_id": 182,
+    "case_id": "7975",
+    "correct_answer": "F",
+    "country": "墨西哥",
+    "category": "日常生活",
+    "title": "八点后不能出门"
+  },
+  {
+    "row_id": 183,
+    "case_id": "3294",
+    "correct_answer": "F",
+    "country": "美国",
+    "category": "日常生活",
+    "title": "索要礼物"
+  },
+  {
+    "row_id": 184,
+    "case_id": "3255",
+    "correct_answer": "B",
+    "country": "美国",
+    "category": "日常生活",
+    "title": "婚后的烦恼"
+  },
+  {
+    "row_id": 185,
+    "case_id": "8846",
+    "correct_answer": "B",
+    "country": "巴巴多斯",
+    "category": "日常生活",
+    "title": "服装礼仪"
+  },
+  {
+    "row_id": 186,
+    "case_id": "3008",
+    "correct_answer": "C",
+    "country": "美国",
+    "category": "日常生活",
+    "title": "好事要“成双”"
+  },
+  {
+    "row_id": 187,
+    "case_id": "7599",
+    "correct_answer": "C",
+    "country": "哥斯达黎加",
+    "category": "日常生活",
+    "title": "礼轻情意重"
+  },
+  {
+    "row_id": 188,
+    "case_id": "7592",
+    "correct_answer": "C",
+    "country": "哥斯达黎加",
+    "category": "日常生活",
+    "title": "如此老师"
+  },
+  {
+    "row_id": 189,
+    "case_id": "722",
+    "correct_answer": "E",
+    "country": "美国",
+    "category": "日常生活",
+    "title": "拥挤的公共交通"
+  },
+  {
+    "row_id": 190,
+    "case_id": "3332",
+    "correct_answer": "C",
+    "country": "美国",
+    "category": "日常生活",
+    "title": "是还是否"
+  },
+  {
+    "row_id": 191,
+    "case_id": "2983",
+    "correct_answer": "C",
+    "country": "美国",
+    "category": "日常生活",
+    "title": "信用卡"
+  },
+  {
+    "row_id": 192,
+    "case_id": "9052",
+    "correct_answer": "F",
+    "country": "哥伦比亚",
+    "category": "日常生活",
+    "title": "爱跳舞的哥伦比亚人！"
+  },
+  {
+    "row_id": 193,
+    "case_id": "8555",
+    "correct_answer": "F",
+    "country": "秘鲁",
+    "category": "日常生活",
+    "title": "人人都是“月光族”"
+  },
+  {
+    "row_id": 194,
+    "case_id": "7687",
+    "correct_answer": "C",
+    "country": "巴西",
+    "category": "日常生活",
+    "title": "不守时是天性"
+  },
+  {
+    "row_id": 195,
+    "case_id": "5159",
+    "correct_answer": "B",
+    "country": "秘鲁",
+    "category": "日常生活",
+    "title": "采访学生1：我在秘鲁生活的面面观（1）"
+  },
+  {
+    "row_id": 196,
+    "case_id": "8181",
+    "correct_answer": "B",
+    "country": "巴西",
+    "category": "日常生活",
+    "title": "足球VS乒乓球"
+  },
+  {
+    "row_id": 197,
+    "case_id": "8604",
+    "correct_answer": "D",
+    "country": "秘鲁",
+    "category": "日常生活",
+    "title": "秘鲁味儿的“中国菜”"
+  },
+  {
+    "row_id": 198,
+    "case_id": "7616",
+    "correct_answer": "C",
+    "country": "阿根廷",
+    "category": "日常生活",
+    "title": "晚餐时间"
+  },
+  {
+    "row_id": 199,
+    "case_id": "2439",
+    "correct_answer": "B",
+    "country": "智利",
+    "category": "日常生活",
+    "title": "自来水可以直接饮用吗？"
+  },
+  {
+    "row_id": 200,
+    "case_id": "9791",
+    "correct_answer": "B",
+    "country": "澳大利亚",
+    "category": "日常生活",
+    "title": "乐于助人的澳大利亚人(图文)"
+  },
+  {
+    "row_id": 201,
+    "case_id": "9585",
+    "correct_answer": "C",
+    "country": "新西兰",
+    "category": "日常生活",
+    "title": "用木质原浆纸将得罪人(图文)"
+  },
+  {
+    "row_id": 202,
+    "case_id": "5734",
+    "correct_answer": "F",
+    "country": "斐济",
+    "category": "日常生活",
+    "title": "享受斐济时间"
+  },
+  {
+    "row_id": 203,
+    "case_id": "9385",
+    "correct_answer": "C",
+    "country": "澳大利亚",
+    "category": "日常生活",
+    "title": "不要送我们菊花"
+  },
+  {
+    "row_id": 204,
+    "case_id": "5697",
+    "correct_answer": "E",
+    "country": "斐济",
+    "category": "日常生活",
+    "title": "说话不算数"
+  },
+  {
+    "row_id": 205,
+    "case_id": "1156",
+    "correct_answer": "F",
+    "country": "新加坡",
+    "category": "法律",
+    "title": "不能承受之痛——鞭刑"
+  },
+  {
+    "row_id": 206,
+    "case_id": "2534",
+    "correct_answer": "D",
+    "country": "日本",
+    "category": "法律",
+    "title": "中日善意取得制度比较"
+  },
+  {
+    "row_id": 207,
+    "case_id": "10632",
+    "correct_answer": "D",
+    "country": "泰国",
+    "category": "法律",
+    "title": "烟可不能随意抽"
+  },
+  {
+    "row_id": 208,
+    "case_id": "5179",
+    "correct_answer": "C",
+    "country": "新加坡",
+    "category": "法律",
+    "title": "新加坡教育分流制度"
+  },
+  {
+    "row_id": 209,
+    "case_id": "7181",
+    "correct_answer": "F",
+    "country": "斯洛文尼亚",
+    "category": "法律",
+    "title": "结婚这件小事(图文)"
+  },
+  {
+    "row_id": 210,
+    "case_id": "9185",
+    "correct_answer": "C",
+    "country": "奥地利",
+    "category": "法律",
+    "title": "没穿警戒背心被罚款"
+  },
+  {
+    "row_id": 211,
+    "case_id": "6693",
+    "correct_answer": "F",
+    "country": "英国",
+    "category": "法律",
+    "title": "用其他老师的课件算是侵权吗?"
+  },
+  {
+    "row_id": 212,
+    "case_id": "11356",
+    "correct_answer": "E",
+    "country": "多哥",
+    "category": "法律",
+    "title": "不能入境的中草药"
+  },
+  {
+    "row_id": 213,
+    "case_id": "7725",
+    "correct_answer": "B",
+    "country": "埃及",
+    "category": "法律",
+    "title": "不要随给埃及妇女拍照(图文)"
+  },
+  {
+    "row_id": 214,
+    "case_id": "8725",
+    "correct_answer": "E",
+    "country": "赞比亚",
+    "category": "法律",
+    "title": "法律无法解决的事"
+  },
+  {
+    "row_id": 215,
+    "case_id": "6372",
+    "correct_answer": "F",
+    "country": "美国",
+    "category": "法律",
+    "title": "无规矩不成方圆"
+  },
+  {
+    "row_id": 216,
+    "case_id": "531",
+    "correct_answer": "A",
+    "country": "美国",
+    "category": "法律",
+    "title": "给山羊剪指甲"
+  },
+  {
+    "row_id": 217,
+    "case_id": "11033",
+    "correct_answer": "E",
+    "country": "美国",
+    "category": "法律",
+    "title": "过路口"
+  },
+  {
+    "row_id": 218,
+    "case_id": "9778",
+    "correct_answer": "F",
+    "country": "澳大利亚",
+    "category": "法律",
+    "title": "吸毒合法(图文)"
+  },
+  {
+    "row_id": 219,
+    "case_id": "5760",
+    "correct_answer": "F",
+    "country": "新西兰",
+    "category": "法律",
+    "title": "没有骂人的自由"
+  },
+  {
+    "row_id": 220,
+    "case_id": "9576",
+    "correct_answer": "F",
+    "country": "新西兰",
+    "category": "法律",
+    "title": "尽情垂钓，依法放生"
+  },
+  {
+    "row_id": 221,
+    "case_id": "5180",
+    "correct_answer": "F",
+    "country": "哥伦比亚",
+    "category": "法律",
+    "title": "哥伦比亚人对安全问题善意的提醒"
+  },
+  {
+    "row_id": 222,
+    "case_id": "9233",
+    "correct_answer": "D",
+    "country": "玻利维亚",
+    "category": "法律",
+    "title": "擦皮鞋的小男孩"
+  },
+  {
+    "row_id": 223,
+    "case_id": "2567",
+    "correct_answer": "E",
+    "country": "智利",
+    "category": "法律",
+    "title": "“过”还是“不过”？"
+  },
+  {
+    "row_id": 224,
+    "case_id": "2268",
+    "correct_answer": "F",
+    "country": "加拿大",
+    "category": "经济",
+    "title": "一次失败的谈判"
+  },
+  {
+    "row_id": 225,
+    "case_id": "7809",
+    "correct_answer": "B",
+    "country": "格林纳达",
+    "category": "经济",
+    "title": "印上国旗的果实(图文)"
+  },
+  {
+    "row_id": 226,
+    "case_id": "1914",
+    "correct_answer": "B",
+    "country": "美国",
+    "category": "经济",
+    "title": "香港J&A的价值观"
+  },
+  {
+    "row_id": 227,
+    "case_id": "2968",
+    "correct_answer": "C",
+    "country": "美国",
+    "category": "经济",
+    "title": "商务谈判中的中美文化差异"
+  },
+  {
+    "row_id": 228,
+    "case_id": "2497",
+    "correct_answer": "F",
+    "country": "日本",
+    "category": "经济",
+    "title": "中日房地产泡沫的对比"
+  },
+  {
+    "row_id": 229,
+    "case_id": "1803",
+    "correct_answer": "D",
+    "country": "印度尼西亚",
+    "category": "经济",
+    "title": "请到我的家中来！"
+  },
+  {
+    "row_id": 230,
+    "case_id": "2264",
+    "correct_answer": "F",
+    "country": "日本",
+    "category": "经济",
+    "title": "日本人的“立邦漆”广告惹怒了中国人"
+  },
+  {
+    "row_id": 231,
+    "case_id": "2658",
+    "correct_answer": "C",
+    "country": "日本",
+    "category": "经济",
+    "title": "要素生产率与经济增长的中日比较"
+  },
+  {
+    "row_id": 232,
+    "case_id": "6357",
+    "correct_answer": "B",
+    "country": "莫桑比克",
+    "category": "经济",
+    "title": "无忧愁的生活状态"
+  },
+  {
+    "row_id": 233,
+    "case_id": "10492",
+    "correct_answer": "D",
+    "country": "尼日利亚",
+    "category": "经济",
+    "title": "带着午饭去加油(图文)"
+  },
+  {
+    "row_id": 234,
+    "case_id": "4292",
+    "correct_answer": "F",
+    "country": "津巴布韦",
+    "category": "经济",
+    "title": "175000000000000000津巴布韦元换5美元(图文)"
+  },
+  {
+    "row_id": 235,
+    "case_id": "5713",
+    "correct_answer": "F",
+    "country": "斐济",
+    "category": "经济",
+    "title": "小型旅馆的生存之道"
+  },
+  {
+    "row_id": 236,
+    "case_id": "5748",
+    "correct_answer": "C",
+    "country": "新西兰",
+    "category": "经济",
+    "title": "养老不用靠自己"
+  },
+  {
+    "row_id": 237,
+    "case_id": "9545",
+    "correct_answer": "C",
+    "country": "澳大利亚",
+    "category": "经济",
+    "title": "无理由退货！"
+  },
+  {
+    "row_id": 238,
+    "case_id": "1680",
+    "correct_answer": "F",
+    "country": "比利时",
+    "category": "经济",
+    "title": "请着正装"
+  },
+  {
+    "row_id": 239,
+    "case_id": "6585",
+    "correct_answer": "D",
+    "country": "法国",
+    "category": "经济",
+    "title": "不“记仇”的法国人"
+  },
+  {
+    "row_id": 240,
+    "case_id": "6601",
+    "correct_answer": "C",
+    "country": "法国",
+    "category": "经济",
+    "title": "握手不可少"
+  },
+  {
+    "row_id": 241,
+    "case_id": "3666",
+    "correct_answer": "C",
+    "country": "秘鲁",
+    "category": "经济",
+    "title": "秘鲁矿业的机遇与风险分析"
+  },
+  {
+    "row_id": 242,
+    "case_id": "8184",
+    "correct_answer": "C",
+    "country": "巴西",
+    "category": "经济",
+    "title": "巴西企业文化"
+  },
+  {
+    "row_id": 243,
+    "case_id": "1818",
+    "correct_answer": "B",
+    "country": "圭亚那",
+    "category": "经济",
+    "title": "中圭经济合作"
+  },
+  {
+    "row_id": 244,
+    "case_id": "4420",
+    "correct_answer": "C",
+    "country": "南非",
+    "category": "语言文字",
+    "title": "Six ， Sex or Sacks? (图文)"
+  },
+  {
+    "row_id": 245,
+    "case_id": "8809",
+    "correct_answer": "F",
+    "country": "塞舌尔",
+    "category": "语言文字",
+    "title": "十里不同音(图文)"
+  },
+  {
+    "row_id": 246,
+    "case_id": "4434",
+    "correct_answer": "E",
+    "country": "南非",
+    "category": "语言文字",
+    "title": "Cape Doctor 在南非英语中原来是“东南风”！ (图文)"
+  },
+  {
+    "row_id": 247,
+    "case_id": "2539",
+    "correct_answer": "B",
+    "country": "马达加斯加",
+    "category": "语言文字",
+    "title": "不是什么时候都可以吃肉的国家(图文)"
+  },
+  {
+    "row_id": 248,
+    "case_id": "2033",
+    "correct_answer": "F",
+    "country": "日本",
+    "category": "语言文字",
+    "title": "中日猫谚语对比研究"
+  },
+  {
+    "row_id": 249,
+    "case_id": "10676",
+    "correct_answer": "F",
+    "country": "泰国",
+    "category": "语言文字",
+    "title": "不一样的“再见”"
+  },
+  {
+    "row_id": 250,
+    "case_id": "2160",
+    "correct_answer": "A",
+    "country": "越南",
+    "category": "语言文字",
+    "title": "汉字对越南文字的影响"
+  },
+  {
+    "row_id": 251,
+    "case_id": "2185",
+    "correct_answer": "E",
+    "country": "越南",
+    "category": "语言文字",
+    "title": "“蛇”到底是什么样子的？"
+  },
+  {
+    "row_id": 252,
+    "case_id": "7873",
+    "correct_answer": "D",
+    "country": "德国",
+    "category": "语言文字",
+    "title": "德语里没有“天下”一词"
+  },
+  {
+    "row_id": 253,
+    "case_id": "9206",
+    "correct_answer": "F",
+    "country": "冰岛",
+    "category": "语言文字",
+    "title": "欧洲“最保守的语言”冰岛语"
+  },
+  {
+    "row_id": 254,
+    "case_id": "2900",
+    "correct_answer": "F",
+    "country": "英国",
+    "category": "语言文字",
+    "title": "“恭喜”不能随便说"
+  },
+  {
+    "row_id": 255,
+    "case_id": "3371",
+    "correct_answer": "B",
+    "country": "英国",
+    "category": "语言文字",
+    "title": "“是”与“不是”的困惑"
+  },
+  {
+    "row_id": 256,
+    "case_id": "6480",
+    "correct_answer": "C",
+    "country": "美国",
+    "category": "语言文字",
+    "title": "你饭前怎么不刷牙啊"
+  },
+  {
+    "row_id": 257,
+    "case_id": "3983",
+    "correct_answer": "F",
+    "country": "美国",
+    "category": "语言文字",
+    "title": "“小馋猫”风波"
+  },
+  {
+    "row_id": 258,
+    "case_id": "4941",
+    "correct_answer": "D",
+    "country": "古巴",
+    "category": "语言文字",
+    "title": "古巴作家的偶像地位"
+  },
+  {
+    "row_id": 259,
+    "case_id": "751",
+    "correct_answer": "B",
+    "country": "美国",
+    "category": "语言文字",
+    "title": "一点也不ok！"
+  },
+  {
+    "row_id": 260,
+    "case_id": "5656",
+    "correct_answer": "F",
+    "country": "澳大利亚",
+    "category": "语言文字",
+    "title": "澳大利亚英语词汇中的土著文化"
+  },
+  {
+    "row_id": 261,
+    "case_id": "9794",
+    "correct_answer": "D",
+    "country": "澳大利亚",
+    "category": "语言文字",
+    "title": "直来直去的澳大利亚人"
+  },
+  {
+    "row_id": 262,
+    "case_id": "386",
+    "correct_answer": "E",
+    "country": "新西兰",
+    "category": "语言文字",
+    "title": "老先生和老太太"
+  },
+  {
+    "row_id": 263,
+    "case_id": "8132",
+    "correct_answer": "D",
+    "country": "巴西",
+    "category": "语言文字",
+    "title": "巴西国鸟怎么了？"
+  },
+  {
+    "row_id": 264,
+    "case_id": "7023",
+    "correct_answer": "B",
+    "country": "巴西",
+    "category": "语言文字",
+    "title": "巴西：OK手势表示“好的”“赞扬”？"
+  },
+  {
+    "row_id": 265,
+    "case_id": "3079",
+    "correct_answer": "A",
+    "country": "智利",
+    "category": "语言文字",
+    "title": "形容词扎堆"
+  },
+  {
+    "row_id": 266,
+    "case_id": "8481",
+    "correct_answer": "C",
+    "country": "坦桑尼亚",
+    "category": "风俗",
+    "title": "“冷清”的餐桌"
+  },
+  {
+    "row_id": 267,
+    "case_id": "10506",
+    "correct_answer": "F",
+    "country": "埃及",
+    "category": "风俗",
+    "title": "青年男女的恋爱"
+  },
+  {
+    "row_id": 268,
+    "case_id": "2099",
+    "correct_answer": "B",
+    "country": "喀麦隆",
+    "category": "风俗",
+    "title": "不可不说的贴面礼"
+  },
+  {
+    "row_id": 269,
+    "case_id": "10263",
+    "correct_answer": "B",
+    "country": "南非",
+    "category": "风俗",
+    "title": "怎么看动物？"
+  },
+  {
+    "row_id": 270,
+    "case_id": "10959",
+    "correct_answer": "C",
+    "country": "科摩罗",
+    "category": "风俗",
+    "title": "男女有别"
+  },
+  {
+    "row_id": 271,
+    "case_id": "11364",
+    "correct_answer": "B",
+    "country": "毛里求斯",
+    "category": "风俗",
+    "title": "传递的酒杯"
+  },
+  {
+    "row_id": 272,
+    "case_id": "10305",
+    "correct_answer": "E",
+    "country": "尼日利亚",
+    "category": "风俗",
+    "title": "我吃什么你就吃什么吧"
+  },
+  {
+    "row_id": 273,
+    "case_id": "773",
+    "correct_answer": "F",
+    "country": "韩国",
+    "category": "风俗",
+    "title": "民族宫廷大餐的较量"
+  },
+  {
+    "row_id": 274,
+    "case_id": "2312",
+    "correct_answer": "A",
+    "country": "蒙古",
+    "category": "风俗",
+    "title": "日常礼仪"
+  },
+  {
+    "row_id": 275,
+    "case_id": "1727",
+    "correct_answer": "F",
+    "country": "尼泊尔",
+    "category": "风俗",
+    "title": "尼泊尔的女人节 (图文)"
+  },
+  {
+    "row_id": 276,
+    "case_id": "7167",
+    "correct_answer": "F",
+    "country": "菲律宾",
+    "category": "风俗",
+    "title": "热带圣诞节(图文)"
+  },
+  {
+    "row_id": 277,
+    "case_id": "10154",
+    "correct_answer": "A",
+    "country": "缅甸",
+    "category": "风俗",
+    "title": "纹身也是一种美"
+  },
+  {
+    "row_id": 278,
+    "case_id": "5848",
+    "correct_answer": "F",
+    "country": "蒙古",
+    "category": "风俗",
+    "title": "象征祝福的哈达"
+  },
+  {
+    "row_id": 279,
+    "case_id": "5720",
+    "correct_answer": "C",
+    "country": "伊朗",
+    "category": "风俗",
+    "title": "“咖啡馆”不卖咖啡"
+  },
+  {
+    "row_id": 280,
+    "case_id": "5722",
+    "correct_answer": "D",
+    "country": "伊朗",
+    "category": "风俗",
+    "title": "以“躲鬼节”结束新年"
+  },
+  {
+    "row_id": 281,
+    "case_id": "7815",
+    "correct_answer": "C",
+    "country": "哈萨克斯坦",
+    "category": "风俗",
+    "title": "多样帽子(图文)"
+  },
+  {
+    "row_id": 282,
+    "case_id": "3690",
+    "correct_answer": "F",
+    "country": "美国",
+    "category": "风俗",
+    "title": "猪蹄很好吃吗？"
+  },
+  {
+    "row_id": 283,
+    "case_id": "8847",
+    "correct_answer": "F",
+    "country": "巴巴多斯",
+    "category": "风俗",
+    "title": "对丰收的庆祝方式不同(图文)"
+  },
+  {
+    "row_id": 284,
+    "case_id": "7403",
+    "correct_answer": "F",
+    "country": "哥斯达黎加",
+    "category": "风俗",
+    "title": "剩者为王(图文)"
+  },
+  {
+    "row_id": 285,
+    "case_id": "4020",
+    "correct_answer": "F",
+    "country": "美国",
+    "category": "风俗",
+    "title": "大人与孩子"
+  },
+  {
+    "row_id": 286,
+    "case_id": "11259",
+    "correct_answer": "F",
+    "country": "罗马尼亚",
+    "category": "风俗",
+    "title": "中罗敬酒习俗的差异"
+  },
+  {
+    "row_id": 287,
+    "case_id": "1569",
+    "correct_answer": "F",
+    "country": "阿尔巴尼亚",
+    "category": "风俗",
+    "title": "以羊待贵客"
+  },
+  {
+    "row_id": 288,
+    "case_id": "7028",
+    "correct_answer": "B",
+    "country": "马耳他",
+    "category": "风俗",
+    "title": "10点钟太晚了，我们先回去了"
+  },
+  {
+    "row_id": 289,
+    "case_id": "540",
+    "correct_answer": "E",
+    "country": "意大利",
+    "category": "风俗",
+    "title": "新年砸东西"
+  },
+  {
+    "row_id": 290,
+    "case_id": "6814",
+    "correct_answer": "C",
+    "country": "立陶宛",
+    "category": "风俗",
+    "title": "众人前厌耳语"
+  },
+  {
+    "row_id": 291,
+    "case_id": "883",
+    "correct_answer": "F",
+    "country": "英国",
+    "category": "风俗",
+    "title": "“我是你岳父！”(图文)"
+  },
+  {
+    "row_id": 292,
+    "case_id": "339",
+    "correct_answer": "D",
+    "country": "英国",
+    "category": "风俗",
+    "title": "亲婆婆明算账"
+  },
+  {
+    "row_id": 293,
+    "case_id": "8474",
+    "correct_answer": "B",
+    "country": "厄瓜多尔",
+    "category": "风俗",
+    "title": "你是猪"
+  },
+  {
+    "row_id": 294,
+    "case_id": "8193",
+    "correct_answer": "C",
+    "country": "巴西",
+    "category": "风俗",
+    "title": "揪耳朵过元旦"
+  },
+  {
+    "row_id": 295,
+    "case_id": "7767",
+    "correct_answer": "F",
+    "country": "委内瑞拉",
+    "category": "风俗",
+    "title": "委内瑞拉美女甲天下"
+  },
+  {
+    "row_id": 296,
+    "case_id": "8145",
+    "correct_answer": "D",
+    "country": "巴西",
+    "category": "风俗",
+    "title": "做客后记得致谢"
+  },
+  {
+    "row_id": 297,
+    "case_id": "9151",
+    "correct_answer": "E",
+    "country": "哥伦比亚",
+    "category": "风俗",
+    "title": "炸“玩偶”迎新年"
+  },
+  {
+    "row_id": 298,
+    "case_id": "1898",
+    "correct_answer": "E",
+    "country": "新西兰",
+    "category": "风俗",
+    "title": "毛利人的纹身"
+  },
+  {
+    "row_id": 299,
+    "case_id": "1899",
+    "correct_answer": "C",
+    "country": "新西兰",
+    "category": "风俗",
+    "title": "毛利人的战舞"
+  },
+  {
+    "row_id": 300,
+    "case_id": "9656",
+    "correct_answer": "B",
+    "country": "新西兰",
+    "category": "风俗",
+    "title": "刺青的意义(图文)"
+  },
+  {
+    "row_id": 301,
+    "case_id": "3010",
+    "correct_answer": "E",
+    "country": "美国",
+    "category": "其他",
+    "title": "都是猫儿惹的祸"
+  },
+  {
+    "row_id": 302,
+    "case_id": "9924",
+    "correct_answer": "B",
+    "country": "卢旺达",
+    "category": "其他",
+    "title": "边走边吃？"
+  },
+  {
+    "row_id": 303,
+    "case_id": "38",
+    "correct_answer": "E",
+    "country": "尼日利亚",
+    "category": "其他",
+    "title": "你为什么拒绝我的礼物？"
+  },
+  {
+    "row_id": 304,
+    "case_id": "8192",
+    "correct_answer": "F",
+    "country": "巴西",
+    "category": "其他",
+    "title": "一起洗澡吧！"
+  },
+  {
+    "row_id": 305,
+    "case_id": "3555",
+    "correct_answer": "F",
+    "country": "马来西亚",
+    "category": "其他",
+    "title": "聊天的尴尬(图文)"
+  },
+  {
+    "row_id": 306,
+    "case_id": "5457",
+    "correct_answer": "F",
+    "country": "德国",
+    "category": "其他",
+    "title": "结婚怎么这么难"
+  },
+  {
+    "row_id": 307,
+    "case_id": "3540",
+    "correct_answer": "A",
+    "country": "美国",
+    "category": "制度",
+    "title": "“就象在自己家一样（Make yourself at home）”"
+  },
+  {
+    "row_id": 308,
+    "case_id": "2471",
+    "correct_answer": "E",
+    "country": "日本",
+    "category": "制度",
+    "title": "中日土地征收程序对比"
+  },
+  {
+    "row_id": 309,
+    "case_id": "4872",
+    "correct_answer": "D",
+    "country": "瑞士",
+    "category": "制度",
+    "title": "政治就交给政客们去管吧"
+  },
+  {
+    "row_id": 310,
+    "case_id": "964",
+    "correct_answer": "F",
+    "country": "捷克",
+    "category": "制度",
+    "title": "去泡吧么"
+  },
+  {
+    "row_id": 311,
+    "case_id": "10596",
+    "correct_answer": "C",
+    "country": "埃及",
+    "category": "宗教",
+    "title": "被追问不停的“信仰问题” (图文)"
+  },
+  {
+    "row_id": 312,
+    "case_id": "1612",
+    "correct_answer": "D",
+    "country": "巴基斯坦",
+    "category": "宗教",
+    "title": "巴基斯坦女性的种种禁忌"
+  },
+  {
+    "row_id": 313,
+    "case_id": "10434",
+    "correct_answer": "C",
+    "country": "斯里兰卡",
+    "category": "宗教",
+    "title": "“佛的一切和一切的佛”"
+  },
+  {
+    "row_id": 314,
+    "case_id": "2892",
+    "correct_answer": "B",
+    "country": "英国",
+    "category": "宗教",
+    "title": "嫦娥和天使"
+  },
+  {
+    "row_id": 315,
+    "case_id": "2702",
+    "correct_answer": "D",
+    "country": "日本",
+    "category": "教育",
+    "title": "中日小学数学课程标准的比较"
+  },
+  {
+    "row_id": 316,
+    "case_id": "4121",
+    "correct_answer": "D",
+    "country": "美国",
+    "category": "教育",
+    "title": "“中国差生”变“美国天才”"
+  },
+  {
+    "row_id": 317,
+    "case_id": "1696",
+    "correct_answer": "F",
+    "country": "加纳",
+    "category": "日常生活",
+    "title": "宁舍一口饭，不舍足球赛"
+  },
+  {
+    "row_id": 318,
+    "case_id": "7879",
+    "correct_answer": "F",
+    "country": "埃及",
+    "category": "日常生活",
+    "title": "餐桌礼仪——禁言"
+  },
+  {
+    "row_id": 319,
+    "case_id": "10356",
+    "correct_answer": "F",
+    "country": "埃及",
+    "category": "日常生活",
+    "title": "被嫌弃的大熊猫"
+  },
+  {
+    "row_id": 320,
+    "case_id": "10051",
+    "correct_answer": "C",
+    "country": "南非",
+    "category": "日常生活",
+    "title": "别碰我！"
+  },
+  {
+    "row_id": 321,
+    "case_id": "5337",
+    "correct_answer": "D",
+    "country": "塞内加尔",
+    "category": "日常生活",
+    "title": "有人的地方就有小商贩"
+  },
+  {
+    "row_id": 322,
+    "case_id": "6111",
+    "correct_answer": "C",
+    "country": "莫桑比克",
+    "category": "日常生活",
+    "title": "打招呼请注意"
+  },
+  {
+    "row_id": 323,
+    "case_id": "7205",
+    "correct_answer": "B",
+    "country": "布隆迪",
+    "category": "日常生活",
+    "title": "饮食差异(图文)"
+  },
+  {
+    "row_id": 324,
+    "case_id": "9964",
+    "correct_answer": "F",
+    "country": "坦桑尼亚",
+    "category": "日常生活",
+    "title": "奇特的商品摆放方式"
+  },
+  {
+    "row_id": 325,
+    "case_id": "6057",
+    "correct_answer": "D",
+    "country": "埃及",
+    "category": "日常生活",
+    "title": "不要双手交叉着说话"
+  },
+  {
+    "row_id": 326,
+    "case_id": "808",
+    "correct_answer": "D",
+    "country": "丹麦",
+    "category": "日常生活",
+    "title": "丹麦人的忌讳"
+  },
+  {
+    "row_id": 327,
+    "case_id": "6122",
+    "correct_answer": "C",
+    "country": "英国",
+    "category": "日常生活",
+    "title": "cheers等于干杯吗"
+  },
+  {
+    "row_id": 328,
+    "case_id": "7211",
+    "correct_answer": "D",
+    "country": "丹麦",
+    "category": "日常生活",
+    "title": "最好的礼物给最美的你(图文)"
+  },
+  {
+    "row_id": 329,
+    "case_id": "6507",
+    "correct_answer": "C",
+    "country": "爱沙尼亚",
+    "category": "日常生活",
+    "title": "你们为什么要笑？"
+  },
+  {
+    "row_id": 330,
+    "case_id": "4748",
+    "correct_answer": "F",
+    "country": "乌克兰",
+    "category": "日常生活",
+    "title": "自我介绍"
+  },
+  {
+    "row_id": 331,
+    "case_id": "8362",
+    "correct_answer": "B",
+    "country": "法国",
+    "category": "日常生活",
+    "title": "先给谁倒酒"
+  },
+  {
+    "row_id": 332,
+    "case_id": "688",
+    "correct_answer": "F",
+    "country": "美国",
+    "category": "日常生活",
+    "title": "朋友不应该互相帮助吗？"
+  },
+  {
+    "row_id": 333,
+    "case_id": "689",
+    "correct_answer": "D",
+    "country": "美国",
+    "category": "日常生活",
+    "title": "鸦雀无声的会场"
+  },
+  {
+    "row_id": 334,
+    "case_id": "5538",
+    "correct_answer": "D",
+    "country": "美国",
+    "category": "日常生活",
+    "title": "吃昆虫？！"
+  },
+  {
+    "row_id": 335,
+    "case_id": "3715",
+    "correct_answer": "B",
+    "country": "危地马拉",
+    "category": "日常生活",
+    "title": "女性为什么很少穿短裙短裤"
+  },
+  {
+    "row_id": 336,
+    "case_id": "4961",
+    "correct_answer": "D",
+    "country": "加拿大",
+    "category": "日常生活",
+    "title": "“Look Out！”是什么意思？"
+  },
+  {
+    "row_id": 337,
+    "case_id": "9601",
+    "correct_answer": "B",
+    "country": "墨西哥",
+    "category": "日常生活",
+    "title": "爱迟到的墨西哥人"
+  },
+  {
+    "row_id": 338,
+    "case_id": "10736",
+    "correct_answer": "E",
+    "country": "泰国",
+    "category": "日常生活",
+    "title": "狗肉为什么不能点？"
+  },
+  {
+    "row_id": 339,
+    "case_id": "3336",
+    "correct_answer": "D",
+    "country": "日本",
+    "category": "日常生活",
+    "title": "动物照片比人大"
+  },
+  {
+    "row_id": 340,
+    "case_id": "2156",
+    "correct_answer": "B",
+    "country": "缅甸",
+    "category": "日常生活",
+    "title": "痴迷黄金的国度"
+  },
+  {
+    "row_id": 341,
+    "case_id": "2358",
+    "correct_answer": "F",
+    "country": "日本",
+    "category": "日常生活",
+    "title": "中日在保留传统服装方面的差异"
+  },
+  {
+    "row_id": 342,
+    "case_id": "10153",
+    "correct_answer": "D",
+    "country": "缅甸",
+    "category": "日常生活",
+    "title": "认输是心灵的良药"
+  },
+  {
+    "row_id": 343,
+    "case_id": "10330",
+    "correct_answer": "D",
+    "country": "斯里兰卡",
+    "category": "日常生活",
+    "title": "不同桌的理由"
+  },
+  {
+    "row_id": 344,
+    "case_id": "5718",
+    "correct_answer": "D",
+    "country": "斐济",
+    "category": "日常生活",
+    "title": "斐济“印度布”"
+  },
+  {
+    "row_id": 345,
+    "case_id": "8453",
+    "correct_answer": "B",
+    "country": "厄瓜多尔",
+    "category": "日常生活",
+    "title": "情迷咖啡，一切尽在厄瓜多尔(图文)"
+  },
+  {
+    "row_id": 346,
+    "case_id": "8228",
+    "correct_answer": "F",
+    "country": "巴西",
+    "category": "日常生活",
+    "title": "中菲辣味大不同(图文)"
+  },
+  {
+    "row_id": 347,
+    "case_id": "4743",
+    "correct_answer": "B",
+    "country": "新加坡",
+    "category": "法律",
+    "title": "小费给不给？"
+  },
+  {
+    "row_id": 348,
+    "case_id": "8284",
+    "correct_answer": "C",
+    "country": "丹麦",
+    "category": "法律",
+    "title": "遵守交通规则的丹麦人"
+  },
+  {
+    "row_id": 349,
+    "case_id": "2406",
+    "correct_answer": "C",
+    "country": "日本",
+    "category": "经济",
+    "title": "东风日产的决策失误"
+  },
+  {
+    "row_id": 350,
+    "case_id": "10442",
+    "correct_answer": "F",
+    "country": "尼日利亚",
+    "category": "语言文字",
+    "title": "尼日利亚人很难发出[y]这个音"
+  },
+  {
+    "row_id": 351,
+    "case_id": "2530",
+    "correct_answer": "B",
+    "country": "日本",
+    "category": "语言文字",
+    "title": "中日近代翻译小说的差异"
+  },
+  {
+    "row_id": 352,
+    "case_id": "2339",
+    "correct_answer": "F",
+    "country": "日本",
+    "category": "语言文字",
+    "title": "中日汉字字形差异"
+  },
+  {
+    "row_id": 353,
+    "case_id": "9848",
+    "correct_answer": "B",
+    "country": "摩洛哥",
+    "category": "风俗",
+    "title": "初次见面请别送礼！(图文)"
+  },
+  {
+    "row_id": 354,
+    "case_id": "10521",
+    "correct_answer": "D",
+    "country": "南非",
+    "category": "风俗",
+    "title": "吃饭的手"
+  },
+  {
+    "row_id": 355,
+    "case_id": "3593",
+    "correct_answer": "F",
+    "country": "马来西亚",
+    "category": "风俗",
+    "title": "五个新年"
+  },
+  {
+    "row_id": 356,
+    "case_id": "3594",
+    "correct_answer": "B",
+    "country": "马来西亚",
+    "category": "风俗",
+    "title": "哀痛在心的葬礼"
+  },
+  {
+    "row_id": 357,
+    "case_id": "1756",
+    "correct_answer": "A",
+    "country": "伊朗",
+    "category": "风俗",
+    "title": "请勿拍照！"
+  },
+  {
+    "row_id": 358,
+    "case_id": "7265",
+    "correct_answer": "C",
+    "country": "丹麦",
+    "category": "风俗",
+    "title": "一束鲜花表感谢"
+  },
+  {
+    "row_id": 359,
+    "case_id": "1228",
+    "correct_answer": "D",
+    "country": "葡萄牙",
+    "category": "风俗",
+    "title": "死亡只是去远行"
+  },
+  {
+    "row_id": 360,
+    "case_id": "7085",
+    "correct_answer": "E",
+    "country": "古巴",
+    "category": "风俗",
+    "title": "古巴人名"
+  }
+]

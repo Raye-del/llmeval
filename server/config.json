@@ -1,0 +1,5 @@
+{
+  "default_question_count": 15,
+  "autosave_interval_ms": 15000,
+  "save_dir": "server/submissions"
+}
